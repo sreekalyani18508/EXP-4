@@ -34,18 +34,25 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+CIRCUIT DIAGRAMS:
 
-Half wave rectifier with filter:
+Half wave rectifier with filter: <img width="411" height="303" alt="Screenshot 2025-10-24 121759" src="https://github.com/user-attachments/assets/534c7ba9-25ff-43e2-96f6-47c4a90a6400" />
+                 <img width="1050" height="569" alt="Screenshot 2025-10-24 121908" src="https://github.com/user-attachments/assets/feb026d1-0ac3-4f0e-8cbb-73a547f6abc4" />
 
-Bridge rectifier with filter:
+
+Bridge rectifier with filter: <img width="361" height="237" alt="Screenshot 2025-10-24 121945" src="https://github.com/user-attachments/assets/62236c8c-eb7d-46d6-a875-7b592f144453" />
+
 
 TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+Rectifier without filter: <img width="342" height="112" alt="Screenshot 2025-10-24 122003" src="https://github.com/user-attachments/assets/ff0e324a-0192-410d-8f00-0658ddebf88e" />
 
-WAVEFORM:
+TABULAR COLUMN
+Rectifier with filter: <img width="356" height="89" alt="Screenshot 2025-10-24 121811" src="https://github.com/user-attachments/assets/2c7fb1e5-d332-49d4-9119-ff57a59d7a1f" />
+
+
+WAVEFORM: <img width="352" height="126" alt="Screenshot 2025-10-24 121829" src="https://github.com/user-attachments/assets/95fa46c3-485d-44c5-99b2-c1554f46e14c" />
+          <img width="347" height="160" alt="Screenshot 2025-10-24 122015" src="https://github.com/user-attachments/assets/7fe28b8f-a52e-47d0-8286-f65e7a2f7ba9" />
+
 
 
 RESULT:
